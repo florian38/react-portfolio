@@ -33,4 +33,5 @@ For information on deployment, visit [deployment guide](https://facebook.github.
 
 ## Development
 
-This section can include details about the tech stack, development practices, or how to contribute to the project. ( ReactJS )
+This section can include details about the tech stack, development practices, or how to contribute to the project. 
+- `ReactJS`
